@@ -24,7 +24,7 @@ header {
 .header-list a{
     display: inline-block;
     opacity: 0.7;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 50px;
     transition: all 0.5s;
     color: white;
@@ -42,7 +42,7 @@ header {
 .image-wrapper .p1 {
     position: absolute;
     color: white; 
-    top: 40%;
+    top: 30%;
     left: 40%;
     -ms-transform: translate(-50%,-50%);
     -webkit-transform: translate(-50%,-50%);
